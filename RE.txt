@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is 
 a Test
+=======
+a Test
+>>>>>>> parent of c550fb8... S
